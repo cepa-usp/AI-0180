@@ -1,0 +1,8 @@
+h1. Metric relations on a right triangle
+
+The metric relations on a right triangle.
+
+h2. Dependencies
+
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
+* "CEPALib":https://github.com/cepa-usp/cepalib-java
